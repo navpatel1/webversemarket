@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webverse/static/css/main.73a827dd.css",
+    "main.js": "/webverse/static/js/main.0a8f5ae5.js",
+    "index.html": "/webverse/index.html",
+    "main.73a827dd.css.map": "/webverse/static/css/main.73a827dd.css.map",
+    "main.0a8f5ae5.js.map": "/webverse/static/js/main.0a8f5ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73a827dd.css",
+    "static/js/main.0a8f5ae5.js"
+  ]
+}
